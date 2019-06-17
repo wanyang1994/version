@@ -1,5 +1,5 @@
 {
-	"downloadUrl": "http://192.192.165.23/update/app113.apk",
+	"downloadUrl": "",
 	"versionCode": 3,
 	"versionName": "v1.13",
 	"updateMessage": "1.适配 Android 10.0。\n2.处理部分bug。\n3.优化性能，提升用户体验。"
